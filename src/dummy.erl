@@ -7,7 +7,10 @@
         ]).
 
 dummy() ->
-    io:format("dummy").
+    dummy("dummy").
+
+dummy(Msg) ->
+    io:format(Msg).
 
 derp() ->
     io:format("derp").
