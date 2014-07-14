@@ -3,8 +3,12 @@
 -export([
          dummy/0,
          derp/0,
-         dumb/0
+         dumb/0,
+         nop/0,
+         no_spaces_between_commas/0
         ]).
+
+-define(A_bAd_Macro, 1).
 
 dummy() ->
     dummy("dummy").
@@ -17,3 +21,13 @@ derp() ->
 
 dumb() ->
     io:format("dumb").
+
+nop() ->
+%%%%%%%%%%%%%%%% Long line comment %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    ok.
+
+no_spaces_between_commas() ->
+    io:format("Hello", []).
+
+
+%%% Last line
