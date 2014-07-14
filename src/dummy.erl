@@ -27,7 +27,7 @@ nop() ->
     ok.
 
 no_spaces_between_commas() ->
-    io:format("Hello", []).
+    io:format("Hello",[]).
 
 
 %%% Last line
