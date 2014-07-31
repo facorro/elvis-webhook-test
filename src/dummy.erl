@@ -29,7 +29,6 @@ nop() ->
 no_spaces_between_commas() ->
     io:format("Hello",[],1).
 
-
 %%% Last line
 
 %%% No, this is the last line
@@ -37,6 +36,6 @@ no_spaces_between_commas() ->
 %%% Nooooooooo, this is the last line
 
 
-%%% Another looooooooooooooooooooooooooooooooooooooooooooong linnnnnnnneeeeeeeeeeeeee
-
+%%% Another looooooooooooooooooooooooooooooooooooooooooooong linnnnnnnneeeeeeeeeeee
+%%% Another looooooooooooooooooooooooooooooooooooooooooooong linnnnnnnneeeeeeeeeeee
 
