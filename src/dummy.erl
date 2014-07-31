@@ -37,6 +37,6 @@ no_spaces_between_commas() ->
 %%% Nooooooooo, this is the last line
 
 
-%%%
+%%% Another looooooooooooooooooooooooooooooooooooooooooooong linnnnnnnneeeeeeeeeeeeee
 
 
