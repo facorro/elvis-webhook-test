@@ -8,6 +8,8 @@
          no_spaces_between_commas/0
         ]).
 
+-include("dummy.hrl").
+
 -define(A_bAd_Macro, 1).
 
 dummy() ->
