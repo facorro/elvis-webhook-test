@@ -1,0 +1,1 @@
+-define(MACRO, "This is some text").
