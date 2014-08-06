@@ -1,1 +1,2 @@
--define(MACRO, "This is some text").
+-define(MACRO, "This is some text.").
+-define(MACRO_TWO, "This is some text for another macro.").
