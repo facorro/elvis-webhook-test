@@ -13,7 +13,7 @@
 -define(A_bAd_Macro, 1).
 
 dummy() ->
-    dummy("dummy").
+    dummy("dummy!").
 
 dummy(Msg) ->
     io:format(Msg).
