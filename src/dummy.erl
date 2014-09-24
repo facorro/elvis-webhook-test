@@ -39,5 +39,4 @@ no_spaces_between_commas() ->
 
 
 %%% Another looooooooooooooooooooooooooooooooooooooooooooong linnnnnnnneeeeeeeeeeee
-%%% Another looooooooooooooooooooooooooooooooooooooooooooong linnnnnnnneeeeeeeeeeee
 
